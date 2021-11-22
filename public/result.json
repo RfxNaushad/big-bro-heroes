@@ -1,0 +1,92 @@
+[
+    {   
+        "key" : "fabc1",
+        "name": "Johnny Depp",
+        "age": 58,
+        "address": "California, USA",
+        "salary": 600000,
+        "email": "jonnydep01@gmail.com",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Johnny_Depp_2020.jpg"
+    },
+    {
+        "key" : "fabc2",
+        "name": "Keira Knightley",
+        "age": 36,
+        "address": "NewYork, USA",
+        "salary": 400000,
+        "email": "keiraknightley@gmail.com",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/KeiraKnightleyByAndreaRaffin2011_%28cropped%29.jpg"
+    },
+    {
+        "key" : "fabc3",
+        "name": "Orlando Bloom",
+        "age": 44,
+        "address": "Canterbury, UK",
+        "salary": 380000,
+        "email": "orlandobloom@gmail.com",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Orlando_Bloom_Cannes_2013.jpg"
+    },
+    {
+        "key" : "fabc4",
+        "name": "Bill Nighy",
+        "age": 71,
+        "address": "Caterham, UK",
+        "salary": 280000,
+        "email": "billnighy@gmail.com",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2013/08/bill_nighy_a_p.jpg"
+    },
+    {
+        "key" : "fabc5",
+        "name": "Zoe Saldana",
+        "age": 46,
+        "address": "New Jersey, USA",
+        "salary": 230000,
+        "email": "zoesaldana@gmail.com",
+        "image": "https://media.self.com/photos/604924613d6e4c560916ac67/4:3/w_2560%2Cc_limit/955414464"
+    },
+    {
+        "key" : "fabc6",
+        "name": "Geoffrey Rush",
+        "age": 66,
+        "address": "woomba, Australia",
+        "salary": "190000",
+        "email": "geoffreyrush@gmail.com",
+        "image": "https://cdn.britannica.com/08/147808-050-A366AEA3/Geoffrey-Rush-2010.jpg"
+    },
+    {
+        "key" : "fabc7",
+        "name": "Tom Hollander",
+        "age": 35,
+        "address": "Toowoomba, Australia",
+        "salary": 160000,
+        "email": "tomhollander@gmail.com",
+        "image": "https://i.pinimg.com/736x/7e/b9/96/7eb996d6acfe7b30c74afcf62e12a8b5.jpg"
+    },
+    {
+        "key" : "fabc8",
+        "name": "Stellan Skarsgård",
+        "age": 65,
+        "address": "Clorado, USA",
+        "salary": 180000,
+        "email": "stellanskarsgård@gmail.com",
+        "image": "https://agentfirman.com/wp-content/uploads/2018/02/stellan-skarsgard.jpg"
+    },
+    {
+        "key" : "fabc9",
+        "name": "Kevin McNally",
+        "age": 72,
+        "address": "Bristol, UK",
+        "salary": 120000,
+        "email": "kevinmcnally@gmail.com",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kevin_McNally_by_Gage_Skidmore.jpg/1200px-Kevin_McNally_by_Gage_Skidmore.jpg"
+    },
+    {
+        "key" : "fabc10",
+        "name": "Israel Aduramo",
+        "age": 47,
+        "address": "England, UK",
+        "salary": 140000,
+        "email": "israeladuramo@gmail.com",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2JkNmU2MDYtMzg4MC00MTM5LWE0M2ItYjMzZjI4NzYxMzFmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg"
+    }
+]
