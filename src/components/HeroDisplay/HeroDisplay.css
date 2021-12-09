@@ -1,0 +1,15 @@
+.heroes-section {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.display-card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 20px;
+    border-radius: 20px;
+
+}

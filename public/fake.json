@@ -49,7 +49,7 @@
         "name": "Geoffrey Rush",
         "age": 66,
         "address": "woomba, Australia",
-        "salary": "190000",
+        "salary": 190000,
         "email": "geoffreyrush@gmail.com",
         "image": "https://cdn.britannica.com/08/147808-050-A366AEA3/Geoffrey-Rush-2010.jpg"
     },
